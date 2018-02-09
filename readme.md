@@ -383,6 +383,7 @@
  - [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) - Mobile-first Angular native components.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
  - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+ - [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications.
 
 ### Mobile
 
@@ -393,7 +394,7 @@
 
 *Admin panels / dashboard*
 
- - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+ - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular modules (Angular 5+, Bootstrap 4).
 
 
 # Isomorphic Apps
